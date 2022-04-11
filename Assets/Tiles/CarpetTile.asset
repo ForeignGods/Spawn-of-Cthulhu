@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdfd9b4b54474643b8b3bea7b3fa8c6, type: 3}
+  m_Name: CarpetTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  spriteSlots:
+  - sprites:
+    - sprite: {fileID: 5676361921524012485, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 5186381570836395813, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: -5994607185165182017, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 7140163259330361652, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 641292562667914891, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: -8169983918974524112, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 7422654737675981325, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 4483915885053298307, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 8378887755091297979, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: -5137984613857426043, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 9044580345280488617, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: 1903126335393814591, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10
+  - sprites:
+    - sprite: {fileID: -7864755149010282423, guid: 4061d9d94805faa479186ce5126a1e25,
+        type: 3}
+      probability: 10

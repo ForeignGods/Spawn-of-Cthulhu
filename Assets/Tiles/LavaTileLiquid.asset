@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99be66871571ed94fa1db2a6dccd53c8, type: 3}
+  m_Name: LavaTileLiquid
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 167452448676292774, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 4826001670051054735, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: -818863932429885552, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 5086101361290220450, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 1927778294763587305, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 6143759803355494679, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 5575868442740698827, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 5895190193517027576, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 8630770667377391812, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: -3463672629942828484, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 1779354520159454044, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 4054707197299120591, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 520527061884734022, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: -6585672680986598093, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: 5951696474913575125, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  - {fileID: -29260921961943344, guid: c85bc119ec8cdf341982087f588d589a, type: 3}
+  sprite: {fileID: 0}
+  m_MinSpeed: 0
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  Duration: 0
+  MaxDuration: 3
+  GridCoord: {x: 0, y: 0, z: 0}

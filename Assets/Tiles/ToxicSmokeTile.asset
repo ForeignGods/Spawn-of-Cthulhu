@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99be66871571ed94fa1db2a6dccd53c8, type: 3}
+  m_Name: ToxicSmokeTile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -5145971455946448588, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: -6646562123774156726, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: -3045949826756401092, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: 5690795511819435849, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: 7573641918993869355, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: 1853364983373232860, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: 4638614458126547768, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: -8777413350933754006, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  - {fileID: 429953066158734869, guid: b0935cd458a672f438ed028d3236ed74, type: 3}
+  sprite: {fileID: 0}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  Duration: 0
+  MaxDuration: 3
+  GridCoord: {x: 0, y: 0, z: 0}

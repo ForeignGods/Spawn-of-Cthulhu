@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99be66871571ed94fa1db2a6dccd53c8, type: 3}
+  m_Name: FluidTile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 3075775563899996137, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -8116768414465282867, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: 8183694336760128354, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: 1720572918980609611, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -938375731560054269, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -5769663100645945248, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -8365963348521812820, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -6687140866464813750, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: 8246338985927350942, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -7973117159664239762, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -8180979574012763325, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -8817878926685502599, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -4454368487821673319, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -9035811150400926364, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: 7879977423138673349, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  - {fileID: -7254242748233385527, guid: 3ebf1c127c00fcf46ba765d03909ff49, type: 3}
+  sprite: {fileID: 0}
+  m_MinSpeed: 2
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  Duration: 0
+  MaxDuration: 3
+  GridCoord: {x: 0, y: 0, z: 0}
